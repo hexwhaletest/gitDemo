@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.DataProvider"/>
+    <fullyQualifiedTypeName name="org.testng.Assert"/>
+    <fullyQualifiedTypeName name="pageObjects.LandingPage"/>
+    <fullyQualifiedTypeName name="resources.Base"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By.ByXPath"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.AfterTest"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+</qualifiedTypeNameHistroy>

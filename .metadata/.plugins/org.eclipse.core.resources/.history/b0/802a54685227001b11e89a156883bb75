@@ -1,0 +1,21 @@
+package preview.croydon;
+
+import java.io.IOException;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import pageObjects.LandingPage;
+import resources.Base;
+
+public class ValidateNavigationbar extends Base{
+@Test
+public void basePageNaavigation() throws IOException
+{
+	driver = initializeDriver();
+	driver.get(prop.getProperty("URL"));
+	LandingPage l=new LandingPage(driver);
+	//l.getnavigationbar().isDisplayed();
+	Assert.assertTrue(l.getnavigationbar().isDisplayed());
+	}
+}
