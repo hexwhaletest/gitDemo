@@ -27,7 +27,7 @@ public class Base {
 			System.setProperty("webdriver.friefox.driver","");
 			driver = new FirefoxDriver();
 		} else if (browserName.equals("IE")) {
-			System.out.println("hello");
+			System.out.println("hai");
 
 		}
 
